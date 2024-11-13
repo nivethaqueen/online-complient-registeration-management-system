@@ -1,0 +1,105 @@
+# Complaint Registration and Management System
+
+#Team details
+    Team leader:B.Nivetha
+    Reg Number:412321104036
+    Naan mudhalvan ID:au412321104036
+    GitHub link:
+
+##Team Members
+    Name:K.EzhilArasi
+    Reg Number:412321104011
+    Naan mudhalvan ID:au412321104011
+    GitHub link:
+
+    Name:
+    Reg Number:4123211040
+    Naan mudhalvan ID:au4123211040
+    GitHub:
+
+    Name:
+    Reg Number:4123211040
+    Naan mudhalvan ID:au4123211040
+    GitHub: 
+
+
+## Project Overview
+
+The *Complaint Registration and Management System* is a web application designed to streamline the process of registering and managing complaints. Built with *React* and *Create React App* for the frontend, this system enables users to file complaints online and allows administrators to monitor, manage, and resolve complaints effectively. The project is structured to include multiple components, including user registration, complaint tracking, an admin panel, and real-time notifications, making it a comprehensive solution for complaint management.
+
+## Key Features
+
+1. *User Registration & Login*  
+   Users can create an account and securely log in to the system to register their complaints.
+
+2. *Complaint Submission*  
+   Registered users can submit detailed complaints, categorizing them as needed.
+
+3. *Complaint Tracking*  
+   Users can view the status of their complaints to monitor the progress of resolution.
+
+4. *Admin Panel*  
+   Admins have access to a panel where they can view, assign, and resolve complaints submitted by users.
+
+5. *Real-time Notifications*  
+   Notifications keep users and admins updated on any status changes related to complaints.
+
+6. *Search & Filters*  
+   The admin panel includes search and filter functionalities, allowing admins to manage complaints efficiently by category, status, or priority.
+
+## Project Structure
+
+The project is divided into frontend and backend sections, with a clear directory layout. Below is a brief breakdown of the frontend directory structure:
+
+- *public/index.html*  
+  Contains the base HTML template with the app’s title, *Online Complaint Registration and Management System*. 
+
+- *src/components*  
+  Includes multiple subdirectories (admin, agent, common, user) for organizing React components based on roles and functionalities. This modular approach enhances code readability and maintainability.
+
+- *src/Images*  
+  Stores images used across the application, if any.
+
+- *src/App.js*  
+  The main React component responsible for rendering the application structure and routing.
+
+- *src/App.css*  
+  Contains the styling for the application.
+
+- *package.json*  
+  Manages the dependencies for the project.
+
+## Available Scripts
+
+To run and test the application, you can use the following npm scripts:
+
+- *npm start*: Launches the app in development mode.
+- *npm test*: Runs the test suite for checking code functionality.
+- *npm run build*: Builds the app for production, optimizing performance.
+- *npm run eject*: Ejects the project setup to allow customization of configurations.
+
+## Project Setup
+
+1. Clone the repository.
+2. Install the necessary dependencies with npm install.
+3. Start the application using npm start.
+
+## Deployment
+
+This project can be deployed on various platforms that support Node.js applications, such as Heroku, Vercel, or a custom server setup. After building the app with npm run build, deploy the contents of the build folder.
+
+## Technology Stack
+
+- *Frontend*: React, CSS
+- *Backend*: Integrated with a backend (details not included here) for data storage and complaint management.
+- *Version Control*: Git
+
+## Future Improvements
+
+1. *Enhanced Security*: Implementing advanced security features for better data protection.
+2. *Additional Filters*: Adding more filtering options for improved complaint management.
+3. *Enhanced User Interface*: Upgrading the UI for better user experience and accessibility.
+
+## License
+
+This project is licensed under the MIT License.
